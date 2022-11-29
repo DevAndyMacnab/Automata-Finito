@@ -1,0 +1,32 @@
+<Tipo>
+<Operacion= SUMA>
+<Numero> 4.5 </Numero>
+<Numero> 5.32 </Numero>
+</Operacion>
+<Operacion= RESTA>
+<Numero> 84 </Numero>
+<Numero> 33.7 </Numero>
+</Operacion>
+<Operacion= MULTIPLICACION>
+<Numero> 5 </Numero>
+<Numero> 7 </Numero>
+</Operacion>
+<Operacion= DIVISION>
+<Numero> 45 </Numero>
+<Numero> 9 </Numero>
+</Operacion>
+<Operacion= POTENCIA>
+<Numero> 8 </Numero>
+<Numero> 2 </Numero>
+</Operacion>
+<Operacion= RAIZ>
+<Numero> 3 </Numero>
+<Numero> 27 </Numero>
+</Operacion>
+<Operacion= COSENO>
+<Numero> 10 </Numero>
+</Operacion>
+<Operacion= SENO>
+<Numero> 4 </Numero>
+</Operacion>
+</Tipo>
